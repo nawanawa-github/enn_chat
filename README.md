@@ -1,4 +1,4 @@
-# enn_chat
+# enn
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 {
-    "name": "enn_chat",
-    "short_name": "enn_chat",
+    "name": "enn",
+    "short_name": "enn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
